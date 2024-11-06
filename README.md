@@ -1,4 +1,4 @@
-<img src='https://github.com/IamJoof/IamJoof/blob/main/b4aeb7d23a75db2a0da44cc40e464d7c.gif' width='900px' height='400px'/>
+<img src='https://github.com/IamJoof/IamJoof/blob/main/b4aeb7d23a75db2a0da44cc40e464d7c.gif' width='900px' height='400px' align='center'/>
 <h1 align="center">Hi 👋, I'm John Fred Macapaz</h1>
 <h3 align="center">An aspiring full-stack developer from PH craving for knowledge and skills.</h3>
 
