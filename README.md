@@ -14,7 +14,7 @@
  
  🌱 I'm currently learning **React, Node.js, and modern web technologies**
  
- 💬 Ask me about **Web Development, PHP, Python, or anything tech related**
+ 💬 Ask me about **Web Development, PHP, or anything tech related**
  
  ⚡ Fun fact: **I love turning coffee into code** ☕
 
